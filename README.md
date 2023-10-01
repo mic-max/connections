@@ -5,8 +5,8 @@ This is an ncurses recreation of the game Connections by Wyna Liu.
 ## Usage
 
 1. [Install GCC](https://code.visualstudio.com/docs/cpp/config-mingw)
-1. `gcc .\conn.c -lnmenuw -lncurses -DNCURSES_STATIC`
-1. `./a.exe`
+1. `make`
+1. `conn.exe`
 
 ## Explanation
 

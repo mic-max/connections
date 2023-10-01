@@ -56,7 +56,7 @@ int num_items_selected(MENU *menu) {
     return count;
 }
 
-int main() {
+int main(int argc, char **argv) {
     ITEM **items;
     int c;
     MENU *my_menu;
